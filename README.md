@@ -12,5 +12,5 @@ Modeless가 포함된 UI 팝업 구조입니다.
 >>
 - **OnHighest**     : 해당 팝업이 최상단에 위치할 때 불리는 이벤트
 - **OnBelow**        : 해당 팝업이 최상단에서 최상단이 아닌 상태로 바뀔 때 불리는 이벤트
-- **OnNotification** : UIInstance - PostPopupNotification(Type ~)을 호출하면 모든 팝업에 해당 이벤트 타입을 전달해주는 이벤트
+- **OnNotification** : PostPopupNotification(Type ~)을 호출하면 모든 팝업에 해당 이벤트 타입을 전달해주는 이벤트
 >>
